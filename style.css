@@ -1,0 +1,25 @@
+#one{
+    color:black;
+    display:inline;
+}
+#two{
+    color:black;
+    display:inline;
+}
+#three{
+    color:black;
+    display:inline;
+}
+
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+}
+
+ul{
+
+    gap:20px;
+    
+}
